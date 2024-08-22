@@ -1,0 +1,9 @@
+{
+    "keyboard_name": "Microsoft Sculpt Ergonomic on Teensy LC",
+    "processor": "MKL26Z64",
+    "bootloader": "halfkay",
+    "_comment" : {"matrix_pins": {
+        "cols": ["D5"],
+        "rows": ["B2"]
+    }}
+}
